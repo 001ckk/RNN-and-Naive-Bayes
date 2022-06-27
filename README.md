@@ -28,10 +28,12 @@ This week's project requires us to implement a K-nearest neighbor (kNN) classifi
 
 
 **Platforms Used**
+
 Google Colab
 Git/GitHub
 Google Docs
 Tableau
 
 **Technologies Used**
+
 Google Colab
