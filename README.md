@@ -33,9 +33,7 @@ Google Colab
 
 Git/GitHub
 
-Google Docs
 
-Tableau
 
 **Technologies Used**
 
